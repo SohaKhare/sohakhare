@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hi, I'm Soha Khare</h1>
+<h1 align="center">Hi, I'm Soha Khare </h1>
 
 <p align="center">
   AI/ML Enthusiast • Full Stack Developer • Computer Engineering Student
@@ -20,31 +20,34 @@
 
 📚 Currently exploring Statistical Learning, RAG Systems, and Agentic AI
 
-🏆 Hackathon Participant and Award Winner
-
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
+![Python](https://img.shields.io/badge/Python-CBA6F7?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-F5C2E7?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F9E2AF?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-89B4FA?style=for-the-badge)
 
-Python • C++ • JavaScript • TypeScript
+### Frontend
+![React](https://img.shields.io/badge/React-94E2D5?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-BAC2DE?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-89DCEB?style=for-the-badge)
 
-**Frontend**
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-A6E3A1?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-F2CDCD?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-A6E3A1?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-89B4FA?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-94E2D5?style=for-the-badge)
 
-React • Next.js • Tailwind CSS • Vite
-
-**Backend & Databases**
-
-Node.js • Express.js • FastAPI • MongoDB • PostgreSQL • Prisma ORM
-
-**AI / ML**
-
-Scikit-Learn • Pandas • NumPy • TensorFlow • XGBoost
-
-**Tools**
-
-Git • GitHub • Postman • AWS • Vercel • Railway
+### AI / ML
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FAB387?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-CBA6F7?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-89B4FA?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FAB387?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-A6E3A1?style=for-the-badge)
 
 ---
 
@@ -72,5 +75,5 @@ Git • GitHub • Postman • AWS • Vercel • Railway
 ---
 
 <p align="center">
-  <img src="https://github.com/SohaKhare/sohakhare/blob/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/SohaKhare/sohakhare/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
